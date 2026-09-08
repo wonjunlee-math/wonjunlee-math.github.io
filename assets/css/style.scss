@@ -2,7 +2,19 @@
 ---
 
 @import "{{ site.theme }}";
+
 .wrapper {
   width:1000px;
   margin:0 auto;
+}
+
+section {
+  width:700px;
+  float:right;
+  padding-bottom:50px;
+}
+
+a:hover, a:focus {
+  color:#069;
+  text-decoration:underline;
 }
