@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'TeX Gyre Pagella';
+  font-weight: 400;
+  font-style: normal;
+  src: url('../fonts/texgyrepagella-regular.otf') format('opentype');
+  src: local('TeX Gyre Pagella'),
+       local('TeXGyrePagella-Regular');
+}
+
+@font-face {
+  font-family: 'TeX Gyre Pagella';
+  font-weight: 400;
+  font-style: italic;
+  src: url('../fonts/texgyrepagella-italic.otf') format('opentype');
+  src: local('TeX Gyre Pagella Italic'),
+       local('TeXGyrePagella-Italic');
+}
+
+@font-face {
+  font-family: 'TeX Gyre Pagella';
+  font-weight: 700;
+  font-style: normal;
+  src: url('../fonts/texgyrepagella-bold.otf') format('opentype');
+  src: local('TeX Gyre Pagella Bold'),
+       local('TeXGyrePagella-Bold');
+}
+
+@font-face {
+  font-family: 'TeX Gyre Pagella';
+  font-weight: 700;
+  font-style: italic;
+  src: url('../fonts/texgyrepagella-bolditalic.otf') format('opentype');
+  src: local('TeX Gyre Pagella Bold Italic'),
+       local('TeXGyrePagella-BoldItalic');
+}
