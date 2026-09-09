@@ -8,3 +8,20 @@ Previously, I earned a B.S. in Mathematical Sciences from [KAIST](https://mathsc
 You may contact me at wonjun (dot) lee (dot) math (at) rutgers (dot) edu.
 
 You can see my works through my [ORCiD page](https://orcid.org/0009-0000-2391-8410).
+
+## Publications
+
+### Reveiwed Conference Papers
+
+[1] Donghan Kim, Woojin Kim, and Wonjun Lee. “Super-Polynomial Growth of the Generalized Persistence Diagram”. In: _41st International Symposium on Computational Geometry (SoCG 2025)_. Vol. 332.
+Leibniz International Proceedings in Informatics (LIPIcs). 2025, 64:1–64:20. [DOI access](10.4230/LIPIcs.SoCG.2025.64). Selected as a quality paper; invited for the SoCG 2025 special issue of Journal of Computational Geometry.
+
+## Presentations
+
+### Presentation Slides
+
+-   “_Super-Polynomial Growth of the Generalized Persistence Diagram_,” The 41st International Symposium on Computational Geometry (SoCG 2025), Kanazawa, Japan. [Slides]
+
+### Posters
+
+-   “_Super-Polynomial Growth of the Generalized Persistence Diagram_,” The Geometric Realization of AATRN, Chicago, IL, USA. [Poster (revised)]
