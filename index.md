@@ -20,8 +20,8 @@ Leibniz International Proceedings in Informatics (LIPIcs). 2025, 64:1–64:20. [
 
 ### Presentation Slides
 
--   “_Super-Polynomial Growth of the Generalized Persistence Diagram_,” The 41st International Symposium on Computational Geometry (SoCG 2025), Kanazawa, Japan. [Slides]
+-   “_Super-Polynomial Growth of the Generalized Persistence Diagram_,” The 41st International Symposium on Computational Geometry (SoCG 2025), Kanazawa, Japan. [Slides](assets/documents/WonjunLee_Presentation_SuperPolynomial-Growth-of-the-GPD.pdf)
 
 ### Posters
 
--   “_Super-Polynomial Growth of the Generalized Persistence Diagram_,” The Geometric Realization of AATRN, Chicago, IL, USA. [Poster (revised)]
+-   “_Super-Polynomial Growth of the Generalized Persistence Diagram_,” The Geometric Realization of AATRN, Chicago, IL, USA. [Poster (revised)](assets/documents/WonjunLee_Poster_SuperPolynomial-Growth-of-the-GPD.pdf)
