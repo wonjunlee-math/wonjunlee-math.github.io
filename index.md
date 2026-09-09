@@ -10,7 +10,7 @@ Previously, I earned a B.S. in Mathematical Sciences from [KAIST](https://mathsc
 ### Reveiwed Conference Papers
 
 [1] Donghan Kim, Woojin Kim, and Wonjun Lee. “Super-Polynomial Growth of the Generalized Persistence Diagram”. In: _41st International Symposium on Computational Geometry (SoCG 2025)_. Vol. 332.
-Leibniz International Proceedings in Informatics (LIPIcs). 2025, 64:1–64:20. [DOI access](10.4230/LIPIcs.SoCG.2025.64). Selected as a quality paper; invited for the SoCG 2025 special issue of Journal of Computational Geometry.
+Leibniz International Proceedings in Informatics (LIPIcs). 2025, 64:1–64:20. [DOI access](https://doi.org/10.4230/LIPIcs.SoCG.2025.64). Selected as a quality paper; invited for the SoCG 2025 special issue of Journal of Computational Geometry.
 
 ## Presentations
 
