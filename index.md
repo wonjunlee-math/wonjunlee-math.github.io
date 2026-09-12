@@ -5,6 +5,9 @@ layout: default
 Welcome! I am currently a first-year Mathematics Ph.D. student at [Rutgers University-New Brunswick](https://math.rutgers.edu/), NJ, USA.
 Previously, I earned a B.S. in Mathematical Sciences from [KAIST](https://mathsci.kaist.ac.kr/home/), South Korea.
 
+![Conway](https://github.com/wonjunlee-math/wonjunlee-math.github.io/assets/img/ConwayKnot.png)
+![KiTe](https://github.com/wonjunlee-math/wonjunlee-math.github.io/assets/img/KTknot.png)
+
 ## Publications
 
 ### Reveiwed Conference Papers
