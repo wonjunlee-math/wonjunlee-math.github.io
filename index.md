@@ -5,8 +5,8 @@ layout: default
 Welcome! I am currently a first-year Mathematics Ph.D. student at [Rutgers University-New Brunswick](https://math.rutgers.edu/), NJ, USA.
 Previously, I earned a B.S. in Mathematical Sciences from [KAIST](https://mathsci.kaist.ac.kr/home/), South Korea.
 
-<img src="./assets/img/ConwayKnot.png" alt="Conway knot" width="388" height="527">
-<img src="./assets/img/KTknot.png" alt="K-T knot" width="353" height="527">
+<img src="./assets/img/ConwayKnot.png" alt="Conway knot" width="194" height="264">
+<img src="./assets/img/KTknot.png" alt="K-T knot" width="167.5" height="264">
 
 * * *
 
