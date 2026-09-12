@@ -6,4 +6,4 @@
     -   English: proficient
     -   German: basic, Goethe-Zertifikat A2
     -   Spanish: basic
-*   All the figures in my published paper are constructed with Ti_k_Z package. For posters, I prefer using Adobe Illustrator.
+*   All the figures in my published paper are constructed with Ti<i>k</i>Z package. For posters, I prefer using Adobe Illustrator.
