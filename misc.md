@@ -1,6 +1,6 @@
 # Miscellaneous Trivias
 
-*   이원준 is my Korean (thus original) name, pronounced as [i.wʌ̹n.d͡ʑun] (see IPA notation for how to read this). If you are familiar with Chinese characters or Kanjis, my name is transcribed as 李沅埈.
+*   이원준 is my Korean (thus original) name, pronounced as [i.wʌ̹n.dʑun] (see IPA notation for how to read this). If you are familiar with Chinese characters/Kanjis, my name is transcribed as 李沅埈.
 -   Languages
     -   Korean: native, standard-ish and Gyeongsang (southeast) dialect
     -   English: proficient
